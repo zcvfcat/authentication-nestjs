@@ -1,0 +1,24 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    "dist":true,
+  },
+  "cSpell.words": [
+    "nestjs"
+  ],
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  // "javascript.inlayHints.parameterNames.enabled": "none",
+  // "typescript.inlayHints.parameterNames.enabled": "none",
+  // "javascript.inlayHints.variableTypes.enabled": false,
+  // "typescript.inlayHints.variableTypes.enabled": false,
+  // "javascript.inlayHints.parameterTypes.enabled": false,
+  // "typescript.inlayHints.parameterTypes.enabled": false,
+  // "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+  // "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+}
